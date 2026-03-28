@@ -56,7 +56,7 @@ The business lacked a centralised view of its sales operations, making it diffic
 - Sports & Outdoors and Clothing followed closely
 
 ---
-![Descriptive Dashboard](descriptive.png)
+![Diagnostics Dashboard](https://github.com/KevDes22/Amazon-Sales-Dashboard-Power-BI/blob/main/Screenshot%202026-03-28%20215100.png)
 ### Diagnostics Page
 
 **Quantity by Brand**
