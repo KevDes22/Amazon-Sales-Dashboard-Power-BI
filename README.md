@@ -17,6 +17,9 @@ The business lacked a centralised view of its sales operations, making it diffic
 - Identify fulfillment bottlenecks driving order cancellations and returns
 - Evaluate seller performance and payment method distribution
 - Understand which customer segments and product categories drive the most value
+---
+## Dashboard 
+
 
 ---
 
