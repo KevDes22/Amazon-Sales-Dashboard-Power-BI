@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This project presents an end-to-end sales analytics dashboard built in Power BI for an Amazon retail dataset. The dashboard spans three analytical pages — Objectives, Diagnostics, and Descriptive — and is designed to give stakeholders a clear, interactive view of revenue performance, customer behaviour, logistics, and seller activity across multiple markets.
+This project presents an end-to-end sales analytics dashboard built in Power BI for an Amazon retail dataset. The dashboard spans three analytical pages — Objectives, Diagnostics, and Descriptive — and is designed to give stakeholders a clear, interactive view of revenue performance in Indian Rupee, customer behaviour, logistics, and seller activity across multiple markets.
 
 ---
 
@@ -18,9 +18,9 @@ The business lacked a centralised view of its sales operations, making it diffic
 - Evaluate seller performance and payment method distribution
 - Understand which customer segments and product categories drive the most value
 ---
-## Dashboard 
+## Dashboard & Results
 
-![Descriptive Dashboard](descriptive.png)
+![Descriptive Dashboard](https://github.com/KevDes22/Amazon-Sales-Dashboard-Power-BI/blob/main/Screenshot%202026-03-28%20215125.png)
 
 ## Results
 
@@ -45,10 +45,10 @@ The business lacked a centralised view of its sales operations, making it diffic
 
 **Order Status**
 - Delivered orders accounted for the majority (~50K+)
-- Returned and Cancelled orders were minimal but present — an area for improvement
+- Returned and cancelled orders were minimal but present — an area for improvement
 
 **Revenue by Month**
-- Revenue stayed relatively stable between ₹7M – ₹8M monthly
+- Revenue stayed relatively stable between ₹7M and ₹8M monthly
 - A slight dip was observed mid-year (June – August), with recovery toward Q4
 
 **Revenue by Category & Customer**
@@ -125,9 +125,9 @@ This dashboard demonstrates the power of visual analytics in transforming raw tr
 
 ## 👤 Author
 
-- **Destiny Kevin** [![LinkedIn](https://www.linkedin.com/in/destiny-kevin-0015861a4/))
+- **Destiny Kevin** [LinkedIn](https://www.linkedin.com/in/destiny-kevin-0015861a4/)
   
-- **Peter Audu** [![LinkedIn](https://linkedin.com/in/your-username)
+- **Peter Audu** [LinkedIn](https://www.linkedin.com/in/destiny-kevin-0015861a4/)
 ---
 Business Analyst | Data & Insights
 
