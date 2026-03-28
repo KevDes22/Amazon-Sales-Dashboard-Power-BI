@@ -20,6 +20,74 @@ The business lacked a centralised view of its sales operations, making it diffic
 ---
 ## Dashboard 
 
+![Descriptive Dashboard](descriptive.png)
+
+## Results
+
+### Descriptive Page
+| Metric | Value |
+|--------|-------|
+| Total Revenue | ₹91.83M |
+| Total Orders | 100K+ |
+| Years Covered | 2020 – 2024 |
+
+**Revenue by Brand**
+- CoreTech and KiddoFun led all brands in total revenue (~₹10M each)
+- HomeEase and BrightLux recorded the lowest revenue among listed brands
+
+**Revenue by Payment Method**
+- Credit Card was the dominant payment method (~₹40M)
+- Cash on Delivery had the lowest adoption — indicating a digitally active customer base
+
+**Shipping Cost by Country**
+- Average shipping cost was consistent across all countries (₹7.33 – ₹7.46)
+- Canada had the highest avg. Shipping cost; United Kingdom the lowest
+
+**Order Status**
+- Delivered orders accounted for the majority (~50K+)
+- Returned and Cancelled orders were minimal but present — an area for improvement
+
+**Revenue by Month**
+- Revenue stayed relatively stable between ₹7M – ₹8M monthly
+- A slight dip was observed mid-year (June – August), with recovery toward Q4
+
+**Revenue by Category & Customer**
+- Books generated the highest revenue among tracked customers
+- Sports & Outdoors and Clothing followed closely
+
+---
+![Descriptive Dashboard](descriptive.png)
+### Diagnostics Page
+
+**Quantity by Brand**
+- All major brands moved ~30K units each — suggesting an even product distribution
+- CoreTech, FitLife, Apex, and NexPro led in total quantity sold
+
+**Top Sellers by Quantity**
+| Seller ID | Units Sold |
+|-----------|------------|
+| SELL00806 | 234 |
+| SELL01099 | 230 |
+| SELL00792 | 224 |
+| SELL00709 | 223 |
+| SELL00536 | 220 |
+| **Total (Top 7)** | **2,208** |
+
+**Payment Method Distribution**
+- Credit Card and Debit Card were the most frequently used methods (~40K transactions combined)
+- Cash on Delivery and Net Banking had the lowest transaction counts
+
+**Revenue by Country**
+- United States generated the highest total revenue (~₹50M+)
+- India ranked second; Canada, United Kingdom, and Australia trailed significantly
+
+**Revenue by Category**
+- Electronics was the top-grossing category (~₹20M)
+- Sports & Outdoors and Books followed
+- Home & Kitchen and Toys & Games recorded the lowest category revenues
+
+
+
 
 ---
 
